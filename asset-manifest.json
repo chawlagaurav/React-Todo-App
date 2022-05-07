@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BingeIt/static/css/main.8133a1bc.css",
+    "main.js": "/BingeIt/static/js/main.ed5843d9.js",
+    "index.html": "/BingeIt/index.html",
+    "static/media/search.svg": "/BingeIt/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.8133a1bc.css.map": "/BingeIt/static/css/main.8133a1bc.css.map",
+    "main.ed5843d9.js.map": "/BingeIt/static/js/main.ed5843d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8133a1bc.css",
+    "static/js/main.ed5843d9.js"
+  ]
+}
